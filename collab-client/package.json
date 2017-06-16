@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "formsy": "^0.19.2",
+    "formsy-react": "^0.19.3",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
